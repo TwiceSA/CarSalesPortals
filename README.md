@@ -1,2 +1,4 @@
 # CarSalesPortal
- 
+ Car Sales Website developed In ASP.net Core features include but not limited to: A customer frontend page where they can browse for a product. An admin page where everything happens: Creating a user,model,make,car type which include a variety of options such as,Year, Colour, New or Seconhand, an extra features tab, price as well as the currency of the price. All the afore mentioned are user inputs that will be stored by the databse and displayedd onto the home page( for customer) and/or Home page for Admin to edit or add on to.
+
+The website includes 2 parts, admin and customer. Customers are limited to what they can do things such as browsing the product, looking at the picture,checking price, make , model etc. The Admin part of it includes a Master drop down button, here you have 4 options, Make, Model, Add user and Add Car. where you get the opportuinty to do exactly that, with a fwe more features.
